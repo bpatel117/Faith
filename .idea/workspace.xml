@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881708e7-f1db-4235-ba54-0f3b6c4fbc2c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Faith.iws" />
@@ -235,7 +234,7 @@
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="web.server" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -425,6 +424,11 @@
       <created>1406172744417</created>
       <updated>1406172744417</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st commit&#10;&#10;1st commit&#10;">
+      <created>1406211346693</created>
+      <updated>1406211346693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -464,6 +468,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="1st commit&#10;&#10;1st commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit&#10;&#10;1st commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
